@@ -1,6 +1,6 @@
 <main>
 	<h2 class="titel">Home</h2>
-	<img id="lets-afbeelding" src="images/fotokader.jpg" alt="" />
+	<img id="lets-afbeelding" src="./images/fotokader.jpg" alt="" />
 	<p>
 		Wij zijn LETSers, leden van een netwerk van mensen die wel eens iets voor elkaar willen doen. <br>
 We hebben een heel ruime regio, wat zorgt dat er veel vraag en aanbod is. <br>
