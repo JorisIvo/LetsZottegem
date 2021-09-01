@@ -18,8 +18,7 @@
         haar graag bij het boodschappen doen. <br>
         Hiervoor wordt zij ook gewaardeerd in ietsen. <br>
         Miet moet veel op de computer werken, <br>
-        maar aangezien zij daarmee soms wel problemen heeft, <br>
-        wil <b>Jan</b>, de computerbolleboos van de groep, <br>
+        maar aangezien zij daarmee soms wel problemen heeft, wil <b>Jan</b>, de computerbolleboos van de groep, <br>
         haar graag helpen tegen ietsen, &hellip;<br>
          Maar Jan is niet zo'n specialist in opruimen ;-) &hellip; <br>
          daarvoor kan hij dus de hulp van <b>Frieda </b> goed gebruiken.<br>
@@ -27,12 +26,11 @@
         maar ze is heel blij dat ze voor het invullen van die <br>
         moeilijke formulieren te rade kan gaan mij Mark.<br>
         Papierenwerk is Mark zijn ding &hellip; schilderen niet echt &hellip; <br>
-        Maar gelukkig is Dede daar al om een handje te helpen.<br>
-         En &hellip; had je al door dat Jesse het dochtertje is van Dede?
+        Maar gelukkig is Dede daar al om een handje te helpen. En &hellip; had je al door dat Jesse het dochtertje is van Dede?
         <br> 
         <br>Ziezo, de cirkel is rond !
-        <br>Bij het echte Letsen zal het natuurlijk geen mooie cirkel zijn,<br>
-        het zal eerder een web van transacties tussen de letsers zijn.
+        <br>Bij het echte LETSen zal het natuurlijk geen mooie cirkel zijn,<br>
+        het zal eerder een web van transacties tussen de LETSers zijn.
     </span>
 </div>
 <style  scoped>
