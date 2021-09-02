@@ -6,6 +6,10 @@
     import Netwerk from './pages/netwerk.svelte';
     import Woordenschat from './pages/woordenschat.svelte';
     import ActiefLetsen from './pages/actiefLetsen.svelte';
+    import Contact from './pages/contact.svelte';
+    import LidWorden from './pages/lid.svelte';
+    import Links from './pages/links.svelte';
+
 
     
     // these are our 'pages' to navigate through (in order for this export to work the script tag MUST include context="module")
@@ -16,9 +20,10 @@
        { page: 'Vragen',   component: Vragen },
        { page: 'Netwerk',   component: Netwerk },
        { page: 'Woordenschat',   component: Woordenschat },
-       { page: 'ActiefLetsen',   component: ActiefLetsen },
-
-
+       { page: 'Actief Letsen',   component: ActiefLetsen },
+       { page: 'Contact',   component: Contact },
+       { page: 'Lid worden',   component: LidWorden },
+       { page: 'Links',   component: Links },
 
 
             // other navigation pages can go here
