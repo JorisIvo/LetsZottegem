@@ -69,3 +69,11 @@ button:not(:disabled):active {
 button:focus {
 	border-color: #666;
 }
+
+h1{
+	text-align: center;
+}
+
+h2{
+	text-align: center;
+}
