@@ -19,6 +19,7 @@
     "svelte-navigator": "latest"
   },
   "dependencies": {
+    "node-sass": "^6.0.1",
     "sirv-cli": "^1.0.0"
   }
 }

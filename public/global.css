@@ -77,3 +77,27 @@ h1{
 h2{
 	text-align: center;
 }
+
+.menu-toggle {
+	display: none;
+}
+
+@media screen and (max-width:1023px){
+	.menu-toggle,.main-navigation.toggled .nav-menu {
+		display:block;
+    }
+
+
+	button.menu-toggle {
+		background:none;
+		border:0;
+		box-shadow:none;
+		color:#ffffff;
+		font-size:14px;
+		margin:0 auto;
+		outline-style:none;
+		text-shadow:none;
+		text-transform:uppercase;
+}
+
+}
