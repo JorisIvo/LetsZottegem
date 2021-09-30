@@ -10,20 +10,22 @@
         intSelected = event.srcElement.id;
     }
 
-	function toonMenu() {
+	
+/* 	function toonMenu() {
   let x = document.getElementById("myNavbar");
   if (x.className === "navbar") {
     x.className += " responsive";
   } else {
     x.className = "navbar";
   }
-}
+} */
 
 /**
  * navigation.js
  *
  * Handles toggling the navigation menu for small screens.
  */
+ /*
  ( function() {
 	let container, button, menu;
 
@@ -56,7 +58,7 @@
 			container.className += ' toggled';
 	};
 } )();
-
+*/
    
 
     </script>
@@ -73,9 +75,9 @@
         <!--app navigation -->
         
         <nav id="site-navigation" class="main-navigation">
-            <button onclick="toonMenu()" class="menu-toggle">Menu</button>
+            <button class="menu-toggle">Menu</button>
         <div>    
-        <ul id="myNavbar" class="navbar menu-items menu">
+        <ul id="myNavbar" class="navbar menu">
             {#each navOptions as option, i}
             <!-- <li class="nav-item">
                 <button class={intSelected==i ? "nav-link active p-2 ml-1" : "p-2 ml-1 nav-link"} on:click={changeComponent} id={i} role="tab">{option.page}</button> 
@@ -223,7 +225,10 @@
 
 
     @media screen and (max-width:1023px) {
-        .menu-toggle,.main-navigation.toggled .nav-menu {
+        
+		
+		/*.menu-toggle,.main-navigation.toggled .nav-menu { */
+			.menu-toggle {		
 			display:block;
 	}
 
