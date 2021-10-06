@@ -3,7 +3,7 @@
 <p>HOE ZIT EEN LETS-GROEP IN ELKAAR?</p>
 
 <div class="lets_cirkel">
-   <span class="prent"><img SRC="./images/lets_prent_affiche-2400.jpg" alt="Lets cirkel" >
+   <span class="prent"><img SRC="./images/lets_prent_affiche-2400.jpg" alt="Lets cirkel" id="prent">
   </span>
     <span class="tekst">
         Miet is komen wonen in de streek. <br>
@@ -44,5 +44,10 @@
    } 
    .tekst {
        width: 100%;
+   }
+
+   #prent {
+       width: 100%;
+       height: auto;
    }
 </style>

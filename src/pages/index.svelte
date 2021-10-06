@@ -21,6 +21,7 @@ Wij kunnen helaas niet interLETSen met enkele lokale groepen die kozen voor een 
 
 	#lets-afbeelding {
 		width: 100%;
+		height: 71%;
 	}
 
 	

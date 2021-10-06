@@ -8,5 +8,6 @@ Wij hebben liever een ruime vraag en aanbod, je kiest toch zelf hoe ver je wil g
 <style scoped>
 	#kaart {
 		width: 100%;
+		height: 100%;
 	}
 </style>

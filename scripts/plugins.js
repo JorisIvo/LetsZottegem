@@ -24,8 +24,8 @@
 
 	if ( -1 === menu.className.indexOf( 'nav-menu' ) )
 		menu.className += ' nav-menu';
-
 	button.onclick = function() {
+		alert(container.className);
 		if ( -1 !== container.className.indexOf( 'toggled' ) )
 			container.className = container.className.replace( ' toggled', '' );
 		else
