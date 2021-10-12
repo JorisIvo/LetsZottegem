@@ -78,10 +78,10 @@
 			<nav id="myNavbar" class="navbar">
             <button class="menu-toggle">Menu</button>
         <!-- <div class="menu-menu-1-container">  --> 
-			<div >   
+			<!-- <div >   --> 
               <!-- <ul id="myNavbar" class="navbar menu"> -->
 				<!-- <ul id="myNavbar" class="navbar"> -->
-					<ul>	
+					<ul id="nav" class="menu">	
             {#each navOptions as option, i}
             <!-- <li class="nav-item">
                 <button class={intSelected==i ? "nav-link active p-2 ml-1" : "p-2 ml-1 nav-link"} on:click={changeComponent} id={i} role="tab">{option.page}</button> 
@@ -95,7 +95,7 @@
 
             {/each}
         </ul>
-    </div>
+    <!-- </div> -->
     </nav>
         <!-- content wrapper -->
         <div class="row">
