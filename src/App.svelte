@@ -8,6 +8,8 @@
     function changeComponent(event) {
         selected = navOptions[event.srcElement.id];
         intSelected = event.srcElement.id;
+        var m = document.getElementById("nav");
+        //m.className = "navbar";
     }
 
 	
@@ -73,9 +75,9 @@
     </header>
     <div class="container">
         <!--app navigation -->
-        <!-- 
-        <nav id="site-navigation" class="main-navigation"> -->
-			<nav id="myNavbar" class="navbar">
+         <nav id="site-navigation" class="main-navigation navbar">
+			<!-- <nav id="myNavbar" class="navbar"> -->
+                <!-- <nav id="site-navigation" class="navbar"> -->
             <button class="menu-toggle">Menu</button>
         <!-- <div class="menu-menu-1-container">  --> 
 			<!-- <div >   --> 
@@ -90,7 +92,7 @@
                 </a>
             </li> -->
             <li>
-				<a on:click={changeComponent} id={i} >{option.page}</a>
+				<a on:click={changeComponent} onclick="verberg()" id={i} >{option.page}</a>
 			</li>
 
             {/each}

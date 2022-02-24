@@ -1,6 +1,6 @@
-/*( function() {
+( function() {
 	var container, button, menu;
-
+alert('menufunctie');
 	container = document.getElementById( 'site-navigation' );
 	if ( ! container )
 		return;
@@ -26,17 +26,23 @@
 		else
 			container.className += ' toggled';
 	};
-	alert(menu.className);
-	alert(container.className);
+	//alert(menu.className);
+	//alert(container.className);
 } )();
 
-*/
+
 document.querySelector('.menu-toggle').onclick = () => {
-	let x = document.getElementById("myNavbar");
+	//let x = document.getElementById("myNavbar");
+	let x = document.getElementById("site-navigation");
 	if (x.className === "navbar") {
 	  x.className += " responsive";
 	} else {
 	  x.className = "navbar";
 	}
+  }
+
+  function verberg() {
+	let m = document.getElementById("site-navigation");
+	m.className="navbar"; 
   }
 
