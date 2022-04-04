@@ -7,8 +7,8 @@
     </ul>
 </div>
 
-<ul>
-    <li><h2><a name="actief_letser">Hoe word ik een actief LETSer?</a></h2><br>
+
+    <h2><a name="actief_letser">Hoe word ik een actief LETSer?</a></h2><br>
         <ul><li><b>Lezen &hellip; en gewoon aan LETS denken ;-)</b><br>
         <br>
         Als lid van onze LETSgroep kan je inloggen op LetsC, onze LETSsite.<br>
@@ -30,8 +30,8 @@
         <br>
         De makkelijkste manieren om in contact te komen met andere LETSers, is simpelweg door te LETSen of door deel te nemen aan een of andere LETS-activiteit. De LETS-activiteiten worden aangekondigd via mail en bij het nieuws in LetsC. </li></ul><br>
         <br>
-        </li>
-        <li><h2><a name="excuses">5 (slechte) excuses om niet te LETSen</a></h2><ul>
+    
+        <h2><a name="excuses">5 (slechte) excuses om niet te LETSen</a></h2><ul>
             <li><b>Ik heb geen tijd</b><br>
         <br>
         &quot; Mijn appelboom doet het goed. Het teveel gaat naar de liefhebbers in de LETSgroep. Dat vraagt mij geen extra tijd. Een LETSer kwam helpen op het verjaardagsfeestje van m'n dochtertje. Even een adempauze voor mezelf tijdens zo'n drukke namiddag, dan heb ik zelfs veel tijd gewonnen!&quot;<br>
@@ -68,7 +68,7 @@
         Je moet juist weten dat het systeem stopt op min 500 ... en dat je later veel moet terugdoen natuurlijk.</li></ul>
         <br>
         <br>
-        </li><li><h2><a name="weinig_tijd">Tips voor LETSers met weinig tijd</a></h2><ul>
+        <h2><a name="weinig_tijd">Tips voor LETSers met weinig tijd</a></h2><ul>
             <li>Laat je wasmachine, computer, videocamera, hogedrukreiniger,&hellip;<br>
         gebruiken door andere Letsers.<br>
         <br>
@@ -87,4 +87,4 @@
         </li><li>Sommige LETSers hebben geen auto. Stel voor geïnteresseerden mee te nemen als je boodschappen gaat doen. Of misschien kan je eens iets meebrengen &hellip; of iets transporteren.<br>
         <br>
         </li></ul>
-    </li></ul>
+    
